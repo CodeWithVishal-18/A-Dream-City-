@@ -12,7 +12,6 @@ This project focuses on advanced CSS concepts such as custom properties (CSS var
 
 🌤️ Gradient sky with depth effect
 
-📱 Responsive design with media queries
 
 ## 🛠️ Tech Stack
 
