@@ -25,4 +25,4 @@ Open index.html in your browser to view the skyline.
 
 ## 📌 Portfolio Note
 
-This project demonstrates my ability to create complex visual layouts using pure CSS. It highlights my understanding of CSS variables, gradients, positioning, layering, and responsive design techniques, and is included as part of my frontend development portfolio.
+This project demonstrates my ability to create complex visual layouts using pure CSS. It highlights my understanding of CSS variables, gradients, positioning, layering, and responsive design techniques, and is included as part of my frontend development portfolio. I make this project while learning Web Development.
